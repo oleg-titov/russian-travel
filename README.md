@@ -26,3 +26,7 @@
 ## Чеклист: 
 
 [Чеклист](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html) 
+
+## Ссылка на проект:
+
+[Проект на GitHub](https://github.com/oleg-titov/russian-travel)

@@ -2,12 +2,12 @@
     margin: 0 auto;
     padding-bottom: 32px;
     max-width: 560px;
+    color: white;
     text-align: center;
-    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
     line-height: 76px;
     font-size: 72px;
     font-weight: 900;
-    color: white;
     top: 245px;
     z-index: 1;
   }
