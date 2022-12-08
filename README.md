@@ -30,3 +30,7 @@
 ## Ссылка на проект:
 
 [Проект на GitHub](https://github.com/oleg-titov/russian-travel)
+
+## Посмотреть на сайт:
+
+[Сайт на GitHub Pages](https://oleg-titov.github.io/russian-travel/)
